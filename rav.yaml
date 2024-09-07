@@ -1,0 +1,7 @@
+scripts:
+  server:
+    - cd project_api && python manage.py runserver 8001
+  makemigrations:
+    - cd project_api && python manage.py makemigrations
+  migrate:
+    - cd project_api && python manage.py migrate

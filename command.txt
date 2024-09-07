@@ -1,0 +1,3 @@
+## command for running django application with rav package
+
+rav run server
